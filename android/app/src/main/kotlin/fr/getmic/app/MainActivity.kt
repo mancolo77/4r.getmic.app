@@ -1,4 +1,4 @@
-package 4r.getmic.app
+package fr.getmic.app
 
 import io.flutter.embedding.android.FlutterActivity
 
