@@ -47,9 +47,9 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
           type: BottomNavigationBarType.fixed,
           elevation: 0,
           items: const [
-            BottomNavigationBarItem(icon: Icon(Icons.sports_cricket), label: 'Fixtures'),
-            BottomNavigationBarItem(icon: Icon(Icons.emoji_events), label: 'Series'),
-            BottomNavigationBarItem(icon: Icon(Icons.star), label: 'My Teams'),
+            BottomNavigationBarItem(icon: Icon(Icons.sports_cricket_rounded), label: 'Matches'),
+            BottomNavigationBarItem(icon: Icon(Icons.emoji_events_rounded), label: 'Tournaments'),
+            BottomNavigationBarItem(icon: Icon(Icons.star_rounded), label: 'Favorites'),
           ],
         ),
       ),
